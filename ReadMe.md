@@ -1,1 +1,1 @@
-This folder contains assignments that are part of COMPSCI 682 curriculum
+This folder contains course work that is part of COMPSCI 682 curriculum
